@@ -1,3 +1,3 @@
 # Thajsky-bordel
-Nikdy nevíš.
-Dobrý den.
+**Nikdy nevíš.**
+`Dobrý den.`
