@@ -1,0 +1,2 @@
+# Thajsk-bordel
+Nikdy nevíš.
